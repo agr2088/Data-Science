@@ -106,5 +106,3 @@ and accepted**.
 
 ---
 
-## 📁 Folder Structure
-
