@@ -105,7 +105,7 @@ This repository is structured to demonstrate:
 ```
 data-science-assignments-and-practice/
 │
-├── 01_assignments/        # Instructor-evaluated assignments
+├── assignments/        # Instructor-evaluated assignments
 │   ├── python_basics/
 │   ├── numpy_pandas/
 │   ├── data_visualization/
