@@ -100,36 +100,36 @@ This repository is structured to demonstrate:
 - Basic ANN models
 
 ---
-
 ## 📁 Repository Structure
 
+```
 data-science-assignments-and-practice/
 │
-├── 01_assignments/ # Instructor-evaluated assignments
-│ ├── python_basics/
-│ ├── numpy_pandas/
-│ ├── data_visualization/
-│ ├── statistics/
-│ ├── machine_learning/
-│ └── deep_learning_intro/
+├── 01_assignments/        # Instructor-evaluated assignments
+│   ├── python_basics/
+│   ├── numpy_pandas/
+│   ├── data_visualization/
+│   ├── statistics/
+│   ├── machine_learning/
+│   └── deep_learning_intro/
 │
-├── 02_practice/ # Practice notebooks & experiments
-│ ├── python_practice/
-│ ├── pandas_practice/
-│ └── ml_experiments/
+├── 02_practice/           # Practice notebooks & experiments
+│   ├── python_practice/
+│   ├── pandas_practice/
+│   └── ml_experiments/
 │
-├── 03_projects/ # Mini projects & case studies
-│ ├── mini_projects/
-│ └── case_studies/
+├── 03_projects/           # Mini projects & case studies
+│   ├── mini_projects/
+│   └── case_studies/
 │
-├── datasets/ # Datasets used
-├── notes/ # Concept & interview notes
-└── requirements.txt
+├── datasets/              # Datasets used
+├── notes/                 # Concept & interview notes
+├── requirements.txt       # Project dependencies
+└── README.md
+```
 
 
----
-
-## 📌 Highlights for Recruiters
+## 📌 Highlights
 
 - ✔ Clean and modular folder structure
 - ✔ Clear separation between assignments, practice, and projects
