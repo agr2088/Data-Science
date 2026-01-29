@@ -1,23 +1,23 @@
-# Classification Model Assignments
+# Logistic Regression Assignments
 
 This folder contains instructor-evaluated assignments focused on
-building and evaluating a classification model to predict categorical
-outcomes using supervised machine learning techniques.
+building and evaluating a Logistic Regression model for binary
+classification problems.
 
 ## Files Included
 - **Assignment_8.ipynb**  
   Python implementation including:
-  - Understanding the dataset and target variable
-  - Data preprocessing and feature preparation
+  - Understanding the classification problem and target variable
+  - Data preprocessing and feature selection
+  - Encoding categorical variables and feature scaling
   - Splitting data into training and testing sets
-  - Building a classification model
-  - Model prediction and evaluation
-  - Interpretation of model performance metrics
-  - Drawing conclusions from classification results
+  - Building a Logistic Regression model
+  - Evaluating model performance using classification metrics
+  - Interpreting model results and predictions
 
 ## Skills Demonstrated
-- Supervised learning for classification
-- Data preprocessing and feature handling
-- Model training and testing
-- Evaluation using classification metrics
-- Practical application of machine learning concepts
+- Logistic Regression
+- Binary classification
+- Data preprocessing for classification
+- Model evaluation (accuracy, confusion matrix, classification report)
+- Applied machine learning using scikit-learn
