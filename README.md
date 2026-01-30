@@ -106,11 +106,26 @@ This repository is structured to demonstrate:
 data-science-assignments-and-practice/
 │
 ├── assignments/        # Instructor-evaluated assignments
-│   ├── python_basics/
-│   ├── numpy_pandas/
-│   ├── data_visualization/
-│   ├── statistics/
-│   ├── machine_learning/
+│   ├── 1_Basics_of Python/
+│   ├── 2_Data_Structures,Functions,Numpy_&_Pandas/
+│   ├── 3_Basic_Statistics-1/
+│   ├── 4_Basic_Statistics-2/
+│   ├── 5_EDA/
+│   ├── 6_Hypothesis_Testing_&_CI/
+|   ├── 7_MLR/
+|   ├── 8_Logistic_Regression/
+|   ├── 9_Data_Transformation/
+|   ├── 10_SVM/
+|   ├──
+|   ├──
+|   ├──
+|   ├──
+|   ├──
+|   ├──
+|   ├──
+|   ├──
+|   ├──
+|   ├──
 │   └── deep_learning_intro/
 │
 ├── 02_practice/           # Practice notebooks & experiments
