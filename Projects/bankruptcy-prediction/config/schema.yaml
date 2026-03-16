@@ -1,0 +1,82 @@
+# ==========================================================
+# Dataset Schema Definition
+# Bankruptcy Risk Intelligence System
+# ==========================================================
+#
+# Purpose
+# -------
+# This file defines the expected structure of the dataset
+# used in the bankruptcy prediction pipeline.
+#
+# The schema ensures that the dataset loaded during the
+# pipeline execution matches the expected format.
+#
+# The Data Validation stage uses this schema to verify:
+#
+# • column names
+# • column data types
+# • dataset structure
+#
+# If the dataset does not conform to this schema,
+# the pipeline will fail early to prevent unreliable
+# model training.
+#
+# Pipeline Usage
+# --------------
+#
+# Raw Dataset
+#      ↓
+# Data Ingestion
+#      ↓
+# Data Validation  ← Uses this schema
+#      ↓
+# Data Transformation
+#      ↓
+# Model Training
+#
+
+# ==========================================================
+# 1️⃣ TARGET COLUMN
+# ==========================================================
+#
+# The target column represents the prediction label.
+# The machine learning model will learn to predict
+# this variable based on the feature columns.
+#
+target_column: class
+
+
+# ==========================================================
+# 2️⃣ DATASET COLUMNS AND EXPECTED DATA TYPES
+# ==========================================================
+#
+# Each column in the dataset must match both:
+#
+# • column name
+# • data type
+#
+# If any mismatch occurs, the Data Validation stage
+# will stop the pipeline.
+#
+columns:
+
+  # Industrial environment risk level
+  industrial_risk: float64
+
+  # Management quality risk indicator
+  management_risk: float64
+
+  # Financial flexibility of the company
+  financial_flexibility: float64
+
+  # Company credibility score
+  credibility: float64
+
+  # Market competitiveness indicator
+  competitiveness: float64
+
+  # Operational risk exposure
+  operating_risk: float64
+
+  # Target variable indicating bankruptcy status
+  class: object

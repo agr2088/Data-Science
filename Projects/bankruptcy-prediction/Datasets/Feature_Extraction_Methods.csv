@@ -1,0 +1,22 @@
+Method,Description,Use Case,Real-Time Application
+Bag of Words (BoW),Represents documents by word occurrence counts,"Text classification, spam detection",Sentiment analysis on product reviews
+TF-IDF,Weighs word importance using frequency and inverse document frequency,"Keyword extraction, document similarity",Search engines to rank documents
+N-grams,"Extracts word combinations (bigrams, trigrams)",Context-aware classification,Predictive text and autocomplete
+CountVectorizer,Generates BoW or N-gram vectors automatically,ML pipeline preprocessing,Email spam classification
+HashingVectorizer,Uses hash functions to convert text to vector space,Efficient text vectorization,Real-time log analysis pipelines
+One-Hot Encoding,Binary vector indicating presence/absence of words,Basic categorical encoding,Tag prediction in simple text classification
+Label Encoding,Maps unique words to integers,Categorical variable handling,Basic form filling automation
+Word2Vec,Generates word embeddings based on context window,"Word similarity, semantic clustering",Product recommendation systems
+GloVe,Global co-occurrence-based word embeddings,Semantic analysis,Chatbot word understanding
+FastText,"Includes subword information, handles OOV words",Multi-language support,Voice assistants in multilingual setups
+ELMo,Context-sensitive deep embeddings,Text understanding tasks,Legal/medical document classification
+BERT,Bidirectional transformer embeddings,"Q&A, sentiment analysis","Customer support bots, document search"
+GPT,Transformer-based language model,Text generation,Content writing assistants
+Doc2Vec,Represents entire documents as vectors,"Topic modeling, clustering",Document recommendation systems
+Universal Sentence Encoder,Pretrained model to embed sentences into dense vectors,Semantic search,FAQ matching engines
+Sentence-BERT,Fine-tuned BERT for sentence similarity,Text pair comparison,"Plagiarism detection, duplicate question detection"
+POS Tags,Extract parts-of-speech tags as features,"Grammar checking, NER enhancement",AI grammar tutors
+Named Entity Count,"Counts occurrences of entities (ORG, PERSON)",Information extraction,News article categorization
+Readability Metrics,Measures text complexity using standard indices,Content filtering,EdTech platforms to match student levels
+Sentiment Score,Polarity scoring via tools like VADER,Opinion mining,Social media brand monitoring
+Topic Distribution (LDA),Uses topic probabilities as features,Document clustering,News recommendation engines
