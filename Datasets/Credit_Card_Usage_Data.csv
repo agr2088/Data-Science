@@ -1,0 +1,501 @@
+Person_ID,Age Group,Usage Frequency,Card Type,Annual Spending (USD),Default History
+1,36-50,High Usage,MasterCard,9109,No Default
+2,51+,Low Usage,Visa,6990,No Default
+3,18-25,Low Usage,Discover,4100,No Default
+4,36-50,High Usage,Discover,7283,No Default
+5,36-50,Low Usage,Discover,9646,No Default
+6,51+,High Usage,Visa,5471,No Default
+7,18-25,Medium Usage,MasterCard,1705,No Default
+8,18-25,Low Usage,MasterCard,2490,No Default
+9,36-50,Medium Usage,Visa,5799,No Default
+10,26-35,High Usage,MasterCard,4072,No Default
+11,36-50,Medium Usage,Visa,6475,No Default
+12,36-50,Medium Usage,MasterCard,6820,No Default
+13,36-50,High Usage,Amex,4880,No Default
+14,36-50,Medium Usage,Amex,5257,Default
+15,51+,Medium Usage,Discover,3213,No Default
+16,18-25,High Usage,Amex,6088,No Default
+17,51+,Medium Usage,Amex,1466,No Default
+18,51+,High Usage,Amex,5444,No Default
+19,51+,Medium Usage,Visa,3932,No Default
+20,36-50,High Usage,Amex,1188,Default
+21,26-35,High Usage,Amex,4743,No Default
+22,18-25,Medium Usage,Discover,4201,No Default
+23,26-35,Medium Usage,Amex,9033,No Default
+24,51+,Medium Usage,Amex,5682,No Default
+25,51+,Low Usage,MasterCard,7204,No Default
+26,26-35,Low Usage,Discover,4922,No Default
+27,26-35,Low Usage,Discover,2259,No Default
+28,26-35,High Usage,Discover,9681,No Default
+29,51+,Medium Usage,Discover,2982,No Default
+30,51+,High Usage,Discover,8558,No Default
+31,18-25,Low Usage,Discover,1451,No Default
+32,18-25,Medium Usage,Visa,9414,No Default
+33,51+,High Usage,Amex,2579,No Default
+34,26-35,Medium Usage,Discover,3217,No Default
+35,26-35,High Usage,Amex,5024,No Default
+36,18-25,Medium Usage,Amex,8977,No Default
+37,51+,Low Usage,Visa,7811,No Default
+38,18-25,Low Usage,Discover,7686,No Default
+39,18-25,Medium Usage,MasterCard,2565,No Default
+40,36-50,High Usage,Visa,1268,No Default
+41,36-50,Low Usage,MasterCard,5990,No Default
+42,36-50,Low Usage,Amex,7145,No Default
+43,26-35,Low Usage,Amex,5583,No Default
+44,51+,Medium Usage,Visa,5732,Default
+45,51+,Medium Usage,Visa,6297,No Default
+46,51+,High Usage,MasterCard,9638,No Default
+47,51+,High Usage,Discover,5426,No Default
+48,36-50,High Usage,MasterCard,6516,Default
+49,26-35,Medium Usage,Visa,3835,No Default
+50,26-35,Medium Usage,MasterCard,8538,No Default
+51,36-50,High Usage,Visa,5373,No Default
+52,26-35,High Usage,MasterCard,1981,No Default
+53,36-50,Medium Usage,Visa,6805,No Default
+54,51+,High Usage,Visa,3951,Default
+55,36-50,Low Usage,Visa,554,No Default
+56,51+,Medium Usage,Discover,8143,No Default
+57,51+,High Usage,MasterCard,3962,No Default
+58,18-25,Medium Usage,MasterCard,1332,No Default
+59,36-50,Low Usage,MasterCard,6454,No Default
+60,18-25,Medium Usage,Visa,9019,No Default
+61,36-50,Medium Usage,MasterCard,7721,No Default
+62,36-50,Medium Usage,MasterCard,3810,No Default
+63,18-25,Medium Usage,Visa,3800,No Default
+64,18-25,Low Usage,Amex,7222,No Default
+65,36-50,Medium Usage,Visa,7718,Default
+66,26-35,Medium Usage,MasterCard,8276,No Default
+67,51+,High Usage,Visa,4175,Default
+68,18-25,Medium Usage,Amex,3554,No Default
+69,51+,High Usage,Visa,8470,No Default
+70,26-35,Low Usage,MasterCard,2643,No Default
+71,26-35,Low Usage,Amex,5707,No Default
+72,26-35,Low Usage,Discover,3038,No Default
+73,18-25,Low Usage,MasterCard,5047,No Default
+74,26-35,High Usage,Amex,6119,No Default
+75,18-25,Medium Usage,Amex,8856,No Default
+76,26-35,Low Usage,Discover,7112,Default
+77,51+,Medium Usage,Visa,5505,Default
+78,51+,High Usage,Visa,1322,No Default
+79,36-50,High Usage,MasterCard,1443,No Default
+80,51+,High Usage,Discover,6650,No Default
+81,36-50,Low Usage,Visa,4925,No Default
+82,51+,Medium Usage,Discover,9466,No Default
+83,18-25,Medium Usage,Visa,2698,No Default
+84,51+,Medium Usage,Amex,4742,No Default
+85,36-50,High Usage,Visa,4195,Default
+86,36-50,Low Usage,Discover,3952,No Default
+87,26-35,High Usage,Amex,9606,No Default
+88,18-25,High Usage,Amex,1808,No Default
+89,51+,Medium Usage,Amex,4677,No Default
+90,26-35,High Usage,Discover,9205,No Default
+91,51+,Medium Usage,MasterCard,7352,Default
+92,51+,Low Usage,MasterCard,6535,No Default
+93,26-35,Medium Usage,MasterCard,4094,Default
+94,26-35,Low Usage,Discover,5341,No Default
+95,26-35,Medium Usage,Amex,1909,No Default
+96,26-35,High Usage,MasterCard,5066,No Default
+97,26-35,High Usage,Discover,4991,No Default
+98,51+,Low Usage,MasterCard,2055,Default
+99,26-35,Low Usage,Visa,1304,Default
+100,18-25,Low Usage,MasterCard,1779,No Default
+101,36-50,Medium Usage,MasterCard,7583,No Default
+102,26-35,Medium Usage,Amex,6486,No Default
+103,26-35,Low Usage,Discover,6119,Default
+104,51+,High Usage,Amex,1887,No Default
+105,26-35,Medium Usage,Amex,3179,No Default
+106,26-35,Medium Usage,Amex,2606,No Default
+107,26-35,Medium Usage,Amex,8673,No Default
+108,51+,Low Usage,Amex,4723,No Default
+109,26-35,Low Usage,MasterCard,5331,No Default
+110,36-50,Low Usage,Amex,3268,Default
+111,51+,Low Usage,Amex,3686,No Default
+112,36-50,Low Usage,Discover,3073,No Default
+113,51+,High Usage,Visa,3099,Default
+114,26-35,High Usage,MasterCard,4533,No Default
+115,36-50,Low Usage,MasterCard,8928,Default
+116,51+,Medium Usage,MasterCard,1804,No Default
+117,18-25,Low Usage,Amex,7868,No Default
+118,26-35,High Usage,Amex,6377,Default
+119,51+,High Usage,Amex,1801,No Default
+120,18-25,Medium Usage,Discover,3041,No Default
+121,51+,High Usage,Visa,2551,No Default
+122,18-25,Low Usage,Amex,7309,No Default
+123,26-35,Medium Usage,Visa,9133,No Default
+124,36-50,Low Usage,Discover,9496,No Default
+125,18-25,Low Usage,MasterCard,574,Default
+126,51+,Medium Usage,Amex,7481,No Default
+127,26-35,Low Usage,Visa,5975,No Default
+128,18-25,High Usage,Visa,8732,No Default
+129,51+,Low Usage,Amex,7684,No Default
+130,51+,Medium Usage,MasterCard,6296,No Default
+131,51+,Medium Usage,MasterCard,7641,Default
+132,18-25,Medium Usage,MasterCard,2122,No Default
+133,18-25,Low Usage,Discover,8541,No Default
+134,18-25,Medium Usage,Visa,841,No Default
+135,36-50,Medium Usage,Visa,2574,No Default
+136,18-25,Low Usage,Visa,8492,No Default
+137,18-25,High Usage,Discover,1145,No Default
+138,18-25,Low Usage,Visa,4763,No Default
+139,36-50,Medium Usage,Discover,9301,No Default
+140,18-25,Medium Usage,MasterCard,6636,No Default
+141,51+,Low Usage,Amex,9146,No Default
+142,18-25,High Usage,Visa,3469,No Default
+143,51+,Medium Usage,Visa,3528,No Default
+144,51+,Medium Usage,MasterCard,8143,No Default
+145,51+,Medium Usage,Amex,3181,No Default
+146,36-50,Low Usage,Discover,4129,No Default
+147,36-50,Medium Usage,Amex,4725,No Default
+148,36-50,High Usage,MasterCard,3567,No Default
+149,18-25,Medium Usage,MasterCard,6441,No Default
+150,51+,Medium Usage,Amex,1886,No Default
+151,36-50,High Usage,Discover,3366,No Default
+152,36-50,Medium Usage,Discover,5288,Default
+153,18-25,Low Usage,Visa,5990,No Default
+154,36-50,Low Usage,Discover,4624,No Default
+155,18-25,Low Usage,Amex,8840,No Default
+156,26-35,High Usage,MasterCard,4350,No Default
+157,36-50,Medium Usage,Visa,5915,No Default
+158,26-35,Low Usage,Visa,8179,Default
+159,18-25,High Usage,MasterCard,7319,No Default
+160,51+,Medium Usage,Discover,9828,No Default
+161,36-50,High Usage,MasterCard,8878,No Default
+162,18-25,Low Usage,Discover,9942,Default
+163,51+,Low Usage,MasterCard,1833,No Default
+164,51+,Low Usage,Amex,4650,No Default
+165,26-35,High Usage,Discover,7266,No Default
+166,18-25,High Usage,Amex,3211,No Default
+167,51+,Low Usage,Visa,5353,Default
+168,36-50,High Usage,MasterCard,6712,Default
+169,36-50,Low Usage,Visa,7979,No Default
+170,26-35,Low Usage,Visa,5908,Default
+171,51+,Medium Usage,Visa,8215,No Default
+172,18-25,High Usage,Visa,9442,Default
+173,36-50,Low Usage,MasterCard,2262,No Default
+174,51+,Low Usage,Visa,7601,No Default
+175,51+,High Usage,MasterCard,8174,No Default
+176,26-35,Medium Usage,MasterCard,6622,No Default
+177,36-50,Medium Usage,Amex,981,No Default
+178,36-50,Low Usage,Discover,653,No Default
+179,18-25,High Usage,Discover,8117,No Default
+180,36-50,Medium Usage,MasterCard,2024,No Default
+181,18-25,High Usage,Amex,2620,No Default
+182,36-50,High Usage,MasterCard,2843,No Default
+183,26-35,Low Usage,MasterCard,5636,Default
+184,36-50,Medium Usage,MasterCard,6260,No Default
+185,18-25,Low Usage,Amex,1740,No Default
+186,18-25,Medium Usage,Discover,560,No Default
+187,26-35,Medium Usage,Amex,9630,Default
+188,36-50,Medium Usage,Visa,2139,No Default
+189,36-50,Medium Usage,Amex,6685,No Default
+190,26-35,Medium Usage,Amex,8470,No Default
+191,36-50,High Usage,Amex,1752,Default
+192,36-50,Low Usage,Amex,4703,No Default
+193,18-25,High Usage,Discover,8863,No Default
+194,36-50,Medium Usage,Visa,4049,No Default
+195,36-50,Low Usage,Discover,4697,Default
+196,26-35,Medium Usage,Discover,7509,No Default
+197,26-35,Low Usage,Amex,7167,No Default
+198,51+,High Usage,MasterCard,2822,Default
+199,18-25,Low Usage,MasterCard,4590,No Default
+200,36-50,Low Usage,Discover,7460,No Default
+201,36-50,Low Usage,Discover,3504,No Default
+202,51+,Low Usage,Amex,5636,No Default
+203,36-50,Low Usage,Discover,829,No Default
+204,18-25,Medium Usage,Amex,4140,No Default
+205,51+,Low Usage,MasterCard,8482,No Default
+206,18-25,Low Usage,MasterCard,4607,No Default
+207,51+,High Usage,Visa,1841,Default
+208,51+,Low Usage,MasterCard,8907,No Default
+209,26-35,High Usage,Discover,838,Default
+210,18-25,Medium Usage,MasterCard,6395,No Default
+211,36-50,Low Usage,Amex,3208,Default
+212,36-50,High Usage,MasterCard,2250,No Default
+213,18-25,High Usage,Visa,6104,No Default
+214,36-50,Medium Usage,MasterCard,2921,No Default
+215,36-50,Low Usage,Amex,7619,Default
+216,18-25,Low Usage,Amex,9401,No Default
+217,51+,High Usage,Discover,5819,No Default
+218,18-25,Low Usage,MasterCard,7109,No Default
+219,51+,High Usage,Amex,5887,No Default
+220,36-50,Low Usage,Visa,4493,No Default
+221,36-50,High Usage,Discover,9180,No Default
+222,36-50,Low Usage,Visa,8544,No Default
+223,26-35,Medium Usage,MasterCard,8738,No Default
+224,51+,Low Usage,MasterCard,5373,No Default
+225,26-35,Low Usage,MasterCard,5306,No Default
+226,26-35,Medium Usage,Discover,9092,No Default
+227,18-25,Low Usage,Amex,6413,No Default
+228,26-35,Medium Usage,Discover,7624,No Default
+229,18-25,Low Usage,Visa,3657,No Default
+230,18-25,High Usage,Discover,890,No Default
+231,26-35,High Usage,Visa,4930,No Default
+232,51+,Low Usage,Discover,9320,No Default
+233,51+,Low Usage,Amex,8186,No Default
+234,51+,Low Usage,Visa,4732,No Default
+235,51+,High Usage,MasterCard,8507,No Default
+236,51+,Low Usage,MasterCard,2021,No Default
+237,26-35,High Usage,Discover,9518,No Default
+238,26-35,Medium Usage,MasterCard,2000,No Default
+239,36-50,High Usage,Visa,7237,No Default
+240,51+,High Usage,MasterCard,3794,No Default
+241,26-35,Medium Usage,Amex,5585,No Default
+242,36-50,High Usage,Amex,2919,Default
+243,51+,Low Usage,Discover,9626,No Default
+244,18-25,Low Usage,Visa,3542,No Default
+245,36-50,High Usage,Amex,4997,No Default
+246,26-35,Low Usage,Amex,1966,No Default
+247,18-25,High Usage,Visa,4061,No Default
+248,18-25,Low Usage,MasterCard,1114,No Default
+249,18-25,Low Usage,MasterCard,5892,No Default
+250,36-50,High Usage,Discover,8193,No Default
+251,26-35,Low Usage,MasterCard,9874,No Default
+252,18-25,High Usage,Visa,3723,No Default
+253,51+,Low Usage,Amex,7638,No Default
+254,18-25,Low Usage,MasterCard,3167,No Default
+255,18-25,Medium Usage,Discover,8480,Default
+256,36-50,Medium Usage,MasterCard,630,No Default
+257,36-50,High Usage,Visa,3483,No Default
+258,26-35,Medium Usage,Discover,4778,No Default
+259,51+,High Usage,MasterCard,7626,No Default
+260,36-50,Medium Usage,Discover,8730,Default
+261,18-25,Low Usage,Visa,8194,No Default
+262,26-35,High Usage,Amex,7140,Default
+263,18-25,High Usage,Visa,5968,No Default
+264,18-25,Low Usage,Visa,1420,Default
+265,36-50,High Usage,Visa,8064,No Default
+266,26-35,High Usage,Visa,9184,No Default
+267,51+,Medium Usage,Amex,9823,No Default
+268,51+,High Usage,Amex,9002,No Default
+269,36-50,Low Usage,Discover,9430,No Default
+270,36-50,Medium Usage,MasterCard,3741,No Default
+271,26-35,Medium Usage,Amex,1045,No Default
+272,51+,Low Usage,Amex,4846,No Default
+273,51+,Low Usage,MasterCard,4310,No Default
+274,51+,Medium Usage,Amex,7706,No Default
+275,18-25,High Usage,Visa,9505,No Default
+276,51+,Medium Usage,Visa,2532,No Default
+277,18-25,Low Usage,MasterCard,8936,No Default
+278,26-35,Medium Usage,Discover,771,No Default
+279,18-25,Low Usage,Discover,4011,No Default
+280,26-35,Medium Usage,MasterCard,2271,No Default
+281,51+,High Usage,MasterCard,9954,No Default
+282,51+,Medium Usage,Visa,4861,No Default
+283,26-35,Medium Usage,Discover,7569,No Default
+284,36-50,Low Usage,Amex,1420,No Default
+285,26-35,Low Usage,Visa,8690,No Default
+286,36-50,Low Usage,MasterCard,3930,No Default
+287,18-25,Medium Usage,Discover,4935,Default
+288,18-25,High Usage,Amex,4260,No Default
+289,18-25,Low Usage,Amex,2550,No Default
+290,51+,Low Usage,Visa,1665,No Default
+291,18-25,Medium Usage,Discover,9067,No Default
+292,36-50,Low Usage,Discover,2533,No Default
+293,18-25,High Usage,MasterCard,6967,Default
+294,26-35,High Usage,Discover,645,No Default
+295,26-35,Low Usage,Discover,4888,No Default
+296,51+,Low Usage,Visa,8332,Default
+297,26-35,Medium Usage,Discover,9123,No Default
+298,36-50,High Usage,Amex,9396,No Default
+299,18-25,High Usage,Visa,8673,No Default
+300,51+,Low Usage,Visa,3132,No Default
+301,18-25,Medium Usage,MasterCard,4994,No Default
+302,18-25,High Usage,Discover,8556,Default
+303,36-50,High Usage,MasterCard,8011,No Default
+304,26-35,Medium Usage,Amex,9655,No Default
+305,26-35,Medium Usage,Visa,2328,No Default
+306,18-25,High Usage,Visa,9630,No Default
+307,51+,High Usage,Visa,5305,No Default
+308,26-35,Medium Usage,Amex,1306,No Default
+309,51+,High Usage,Amex,7986,No Default
+310,26-35,Low Usage,MasterCard,8702,No Default
+311,51+,Low Usage,MasterCard,2368,No Default
+312,36-50,Medium Usage,MasterCard,8378,No Default
+313,51+,Medium Usage,Discover,6190,No Default
+314,36-50,Medium Usage,Visa,8327,No Default
+315,36-50,Low Usage,Visa,5929,No Default
+316,51+,High Usage,MasterCard,9576,Default
+317,36-50,Low Usage,Visa,4064,No Default
+318,18-25,High Usage,MasterCard,1889,No Default
+319,36-50,Low Usage,Discover,7774,No Default
+320,26-35,High Usage,Discover,1324,No Default
+321,51+,Low Usage,Amex,2765,No Default
+322,18-25,Medium Usage,Discover,1436,No Default
+323,51+,Low Usage,MasterCard,6902,No Default
+324,26-35,High Usage,Discover,4345,No Default
+325,26-35,Low Usage,Amex,2296,No Default
+326,26-35,Low Usage,Visa,8745,No Default
+327,36-50,Low Usage,MasterCard,7714,Default
+328,36-50,Medium Usage,Visa,1226,No Default
+329,51+,Low Usage,Amex,3236,No Default
+330,51+,Medium Usage,Amex,2413,No Default
+331,18-25,Medium Usage,Amex,8157,No Default
+332,18-25,Low Usage,Visa,2966,No Default
+333,51+,Low Usage,Visa,9541,No Default
+334,36-50,Low Usage,Visa,7812,Default
+335,26-35,High Usage,Visa,8694,No Default
+336,51+,Low Usage,Amex,8406,No Default
+337,18-25,Medium Usage,Amex,5376,No Default
+338,36-50,Low Usage,MasterCard,7787,No Default
+339,51+,High Usage,MasterCard,1392,No Default
+340,51+,Low Usage,Visa,5175,No Default
+341,36-50,High Usage,Discover,2433,No Default
+342,51+,High Usage,Discover,1880,Default
+343,36-50,Low Usage,Amex,1790,No Default
+344,26-35,Medium Usage,Amex,2140,No Default
+345,36-50,High Usage,Amex,7990,No Default
+346,36-50,Low Usage,MasterCard,9679,No Default
+347,36-50,Low Usage,MasterCard,1718,No Default
+348,51+,Medium Usage,Amex,5516,No Default
+349,51+,High Usage,Amex,7381,No Default
+350,36-50,High Usage,Amex,1454,No Default
+351,51+,Low Usage,Discover,9675,No Default
+352,18-25,Low Usage,MasterCard,7791,No Default
+353,18-25,Medium Usage,Discover,1474,Default
+354,51+,Medium Usage,Discover,4633,No Default
+355,51+,High Usage,Amex,5870,No Default
+356,36-50,High Usage,Amex,4472,No Default
+357,26-35,Low Usage,Visa,5795,No Default
+358,51+,High Usage,Visa,9605,No Default
+359,18-25,Medium Usage,Discover,8728,Default
+360,36-50,Medium Usage,MasterCard,3520,No Default
+361,51+,Low Usage,Amex,9487,No Default
+362,18-25,Medium Usage,Amex,4536,No Default
+363,18-25,Medium Usage,Discover,5568,No Default
+364,26-35,Medium Usage,Visa,5733,No Default
+365,36-50,Medium Usage,MasterCard,817,No Default
+366,36-50,Low Usage,Visa,2896,Default
+367,26-35,Low Usage,Visa,2662,No Default
+368,26-35,High Usage,Visa,3245,No Default
+369,36-50,Medium Usage,Visa,2091,No Default
+370,36-50,High Usage,Amex,6683,No Default
+371,51+,Low Usage,Amex,4430,No Default
+372,51+,Low Usage,Visa,1812,No Default
+373,26-35,Low Usage,MasterCard,9977,No Default
+374,51+,Low Usage,Discover,4811,No Default
+375,18-25,Low Usage,MasterCard,7814,No Default
+376,51+,Low Usage,MasterCard,2883,No Default
+377,51+,Low Usage,MasterCard,3739,Default
+378,18-25,Medium Usage,Visa,2639,No Default
+379,26-35,High Usage,Amex,2204,No Default
+380,18-25,Low Usage,MasterCard,7424,No Default
+381,51+,Medium Usage,Visa,862,Default
+382,26-35,Medium Usage,MasterCard,3104,Default
+383,51+,High Usage,MasterCard,4786,No Default
+384,18-25,Low Usage,Visa,4238,No Default
+385,18-25,High Usage,Amex,2969,No Default
+386,51+,Low Usage,Amex,5295,No Default
+387,36-50,Medium Usage,Discover,6650,No Default
+388,36-50,Medium Usage,Visa,1056,No Default
+389,18-25,Medium Usage,Discover,9517,No Default
+390,18-25,Medium Usage,Discover,3308,No Default
+391,36-50,High Usage,Discover,5650,No Default
+392,36-50,Low Usage,Amex,8061,No Default
+393,51+,Low Usage,Visa,3219,No Default
+394,51+,High Usage,Discover,7006,No Default
+395,36-50,Low Usage,Visa,4241,No Default
+396,51+,Medium Usage,Visa,4498,No Default
+397,51+,Low Usage,Amex,2903,No Default
+398,26-35,Medium Usage,Discover,9280,Default
+399,51+,High Usage,Discover,794,No Default
+400,18-25,Low Usage,Visa,5843,No Default
+401,51+,High Usage,MasterCard,1636,No Default
+402,51+,Low Usage,Amex,2564,No Default
+403,36-50,Medium Usage,Amex,7509,No Default
+404,18-25,High Usage,Amex,5043,No Default
+405,51+,Low Usage,Amex,1507,Default
+406,51+,Medium Usage,Discover,5945,No Default
+407,26-35,High Usage,Discover,5852,Default
+408,51+,High Usage,MasterCard,9939,Default
+409,51+,Low Usage,Amex,1935,No Default
+410,26-35,Low Usage,Amex,1071,Default
+411,36-50,Low Usage,Visa,2882,No Default
+412,51+,Medium Usage,Discover,9937,No Default
+413,26-35,Low Usage,Amex,5584,No Default
+414,18-25,High Usage,MasterCard,777,Default
+415,36-50,High Usage,MasterCard,7559,Default
+416,18-25,Low Usage,Discover,2387,No Default
+417,18-25,Low Usage,MasterCard,1765,No Default
+418,26-35,High Usage,MasterCard,7991,No Default
+419,51+,Medium Usage,Discover,1540,No Default
+420,26-35,Low Usage,Amex,9609,No Default
+421,26-35,Low Usage,Amex,8573,No Default
+422,26-35,High Usage,MasterCard,9577,No Default
+423,26-35,Low Usage,MasterCard,3252,No Default
+424,36-50,Medium Usage,Amex,8713,Default
+425,51+,High Usage,Discover,5069,No Default
+426,18-25,Low Usage,MasterCard,6853,No Default
+427,18-25,High Usage,Visa,2853,No Default
+428,51+,Low Usage,Discover,7937,Default
+429,18-25,Low Usage,MasterCard,5299,Default
+430,51+,Low Usage,MasterCard,1186,No Default
+431,18-25,Medium Usage,Visa,8976,No Default
+432,26-35,Medium Usage,Visa,5311,No Default
+433,18-25,High Usage,Amex,9454,No Default
+434,51+,Low Usage,Discover,5846,No Default
+435,51+,Low Usage,Discover,5543,No Default
+436,51+,Medium Usage,Amex,2928,No Default
+437,51+,Low Usage,Discover,5626,No Default
+438,51+,Medium Usage,Discover,8720,No Default
+439,36-50,Low Usage,Discover,9598,No Default
+440,36-50,High Usage,Discover,8313,No Default
+441,18-25,Low Usage,Discover,3856,Default
+442,51+,Low Usage,Visa,9207,No Default
+443,18-25,Medium Usage,Discover,7766,Default
+444,51+,Low Usage,Visa,7040,No Default
+445,51+,Low Usage,Discover,538,No Default
+446,36-50,Medium Usage,Amex,3842,No Default
+447,36-50,High Usage,MasterCard,9578,No Default
+448,26-35,High Usage,Visa,3344,No Default
+449,36-50,Medium Usage,Discover,1598,No Default
+450,26-35,Medium Usage,Amex,7527,No Default
+451,26-35,Medium Usage,MasterCard,2323,No Default
+452,26-35,Medium Usage,Visa,3655,No Default
+453,26-35,Medium Usage,MasterCard,3593,No Default
+454,26-35,High Usage,Amex,6158,No Default
+455,18-25,High Usage,Visa,4278,No Default
+456,36-50,Medium Usage,MasterCard,3396,No Default
+457,26-35,Low Usage,Discover,1488,No Default
+458,51+,Medium Usage,Visa,4616,Default
+459,36-50,Low Usage,MasterCard,6946,No Default
+460,36-50,Medium Usage,Amex,4679,No Default
+461,26-35,Medium Usage,Amex,2182,Default
+462,18-25,High Usage,Visa,6126,No Default
+463,26-35,Low Usage,MasterCard,7924,No Default
+464,18-25,Low Usage,Visa,1433,No Default
+465,51+,High Usage,Visa,4098,No Default
+466,36-50,High Usage,MasterCard,2480,No Default
+467,51+,High Usage,MasterCard,3556,No Default
+468,18-25,High Usage,Discover,9484,No Default
+469,18-25,Low Usage,MasterCard,1291,No Default
+470,51+,Low Usage,Amex,5890,Default
+471,18-25,Medium Usage,Visa,7135,No Default
+472,51+,Medium Usage,Visa,2755,No Default
+473,36-50,High Usage,Amex,4110,No Default
+474,51+,High Usage,MasterCard,2107,No Default
+475,36-50,High Usage,Amex,5679,No Default
+476,51+,Medium Usage,Amex,7073,No Default
+477,18-25,Medium Usage,Discover,1484,No Default
+478,51+,Medium Usage,Amex,6276,Default
+479,18-25,Medium Usage,Visa,4176,No Default
+480,51+,Medium Usage,Amex,3880,No Default
+481,51+,Medium Usage,Visa,9211,No Default
+482,26-35,Medium Usage,Visa,9282,No Default
+483,18-25,High Usage,Visa,1550,No Default
+484,26-35,High Usage,MasterCard,4133,No Default
+485,18-25,High Usage,Discover,6842,No Default
+486,26-35,High Usage,Visa,1459,No Default
+487,36-50,Medium Usage,Visa,6559,No Default
+488,51+,Low Usage,MasterCard,9384,No Default
+489,18-25,Medium Usage,Visa,6155,No Default
+490,18-25,Low Usage,Amex,4973,No Default
+491,51+,High Usage,Amex,3446,No Default
+492,18-25,Medium Usage,Discover,8225,No Default
+493,18-25,High Usage,Visa,1026,No Default
+494,26-35,Medium Usage,MasterCard,3724,No Default
+495,18-25,High Usage,Amex,2375,No Default
+496,36-50,Low Usage,MasterCard,2263,No Default
+497,36-50,Low Usage,MasterCard,9212,Default
+498,51+,Low Usage,Amex,6297,No Default
+499,18-25,Medium Usage,MasterCard,9708,Default
+500,51+,Low Usage,Amex,7599,No Default
