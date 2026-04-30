@@ -1,0 +1,39 @@
+# ============================================================
+# Online Course Recommendation System — Requirements
+# Python 3.11+
+# ============================================================
+
+# ── Core Data & Numerics ────────────────────────────────────
+numpy>=1.26,<2.0
+pandas>=2.2,<3.0
+scipy>=1.13,<2.0
+
+# ── Machine Learning ────────────────────────────────────────
+scikit-learn>=1.4,<2.0
+implicit>=0.7.2
+
+# ── NLP / Semantic Embeddings ───────────────────────────────
+sentence-transformers>=2.7,<3.0
+transformers>=4.40,<5.0
+torch>=2.2
+
+# ── Data Ingestion ──────────────────────────────────────────
+openpyxl>=3.1.5
+
+# ── Dashboard / Visualization ───────────────────────────────
+streamlit>=1.35,<2.0
+plotly>=5.22,<6.0
+matplotlib>=3.8,<4.0
+seaborn>=0.13,<1.0
+
+# ── EDA / Notebook Extras ───────────────────────────────────
+networkx>=3.3
+statsmodels>=0.14
+
+# ── Jupyter Environment ─────────────────────────────────────
+notebook>=7.0
+ipykernel>=6.29
+ipywidgets>=8.1
+
+# ── Testing ─────────────────────────────────────────────────
+pytest>=8.0
