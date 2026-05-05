@@ -1,0 +1,5 @@
+Hierarchical_Cluster,Birth Rate,Business Tax Rate,CO2 Emissions,Days to Start Business,GDP,Health Exp % GDP,Health Exp/Capita,Hours to do Tax,Infant Mortality Rate,Internet Usage,Lending Interest,Mobile Phone Usage,Population 65+,Population Total,Population Urban,Tourism Inbound,Internet Usage_trend,CO2 Emissions_trend,Life Expectancy Female_trend,Mobile Phone Usage_trend
+0,1.2221,0.227,-0.5873,0.5416,-0.6931,-0.2457,-0.6394,0.144,1.1747,-0.8932,0.5355,-1.0306,-0.8096,-0.1474,-0.9212,-0.9525,-1.0173,-0.2679,0.8457,-0.5849
+1,1.3391,2.1113,-0.6427,-0.6443,-1.6763,4.2571,-0.3459,-0.1639,1.6256,-0.9743,0.483,-1.4415,-0.701,-0.6174,-0.0635,-1.8548,-1.1959,-0.383,0.5885,-1.6164
+2,-0.5766,-0.1492,0.2484,-0.2849,0.3227,0.0462,0.2994,-0.1116,-0.5556,0.4246,-0.2925,0.4913,0.3865,0.0538,0.404,0.457,0.4706,0.1017,-0.3912,0.2868
+3,-0.2729,0.8842,2.0387,3.0707,1.3567,0.1661,-0.0611,3.1949,-0.508,-0.0205,2.6335,0.2038,-0.3086,1.5324,1.2911,0.5156,0.9257,1.7936,-0.371,0.3831
