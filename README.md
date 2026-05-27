@@ -1,43 +1,39 @@
-# 🚀 Data Science & Machine Learning Portfolio
+# Data Science & Machine Learning: Foundations & Core Practice
 
-This repository documents my structured transition into the field of Data Science and Machine Learning, built through rigorous hands-on assignments, analytical exploration, and systematic implementation of core concepts.
+This repository documents my structured progression into the field of Data Science and Machine Learning, built through rigorous hands-on assignments, analytical exploration, and the systematic implementation of core algorithms.
 
-The work presented here reflects progressive learning — from Python programming foundations to advanced machine learning, deep learning, and time series modeling — with emphasis on clean coding, statistical reasoning, and model evaluation.
+The work presented here reflects a deep dive into technical learning—from Python programming and statistical inference to advanced machine learning, deep learning, and time series modeling. The emphasis across all modules is on clean coding, mathematical reasoning, and rigorous model evaluation.
 
-This portfolio serves as a growing technical foundation and will continue expanding with production-oriented projects and real-world case studies.
+This repository serves as a centralized technical knowledge base and a living archive for continuous analytical practice.
 
 ---
 
-## 🎯 Professional Focus
+## 🎯 Core Objectives
 
-- Building strong analytical foundations
-- Implementing end-to-end machine learning workflows
-- Applying statistical reasoning to real-world problems
+- Building strong analytical and statistical foundations
+- Implementing core machine learning algorithms from scratch and via libraries
+- Applying statistical reasoning to diverse datasets
 - Comparing and optimizing predictive models
-- Designing structured and reproducible codebases
-- Preparing for scalable, project-driven ML development
+- Designing structured, modular, and reproducible codebases
 
 ---
 
 ## 🧠 Technical Expertise
 
 ### Programming & Foundations
-
 - Python (data-centric programming)
-- Object-Oriented Programming
+- Object-Oriented Programming (OOP)
 - Modular code design
 - Logical problem solving
 
 ### Data Analysis & Engineering
-
 - Data cleaning and preprocessing
-- Feature engineering
+- Feature engineering and dimensionality reduction
 - Handling missing values and outliers
 - Encoding and scaling techniques
-- Data merging and transformation
+- Data merging and structural transformation
 
 ### Statistics & Inference
-
 - Descriptive analytics
 - Probability fundamentals
 - Confidence intervals
@@ -47,49 +43,36 @@ This portfolio serves as a growing technical foundation and will continue expand
 ### Machine Learning
 
 #### Supervised Learning
-
 - Multiple Linear Regression
 - Logistic Regression
-- K-Nearest Neighbors
-- Support Vector Machines
+- K-Nearest Neighbors (KNN)
+- Support Vector Machines (SVM)
 - Decision Trees
 - Random Forest
 - Gradient Boosting (XGBoost, LightGBM)
 
 #### Unsupervised Learning
-
 - K-Means Clustering
 - Hierarchical Clustering
 - DBSCAN
 - Principal Component Analysis (PCA)
 
-#### Applied Case Implementations
-
-- Healthcare prediction models
-- Drug response classification
-- Business cost analysis
-- Survival prediction (Titanic)
-- Recommendation systems
-
 ### Model Evaluation & Optimization
-
-- Train-test split and cross-validation
+- Train-test split and cross-validation methodologies
 - Hyperparameter tuning (GridSearchCV)
 - ROC-AUC analysis
-- Precision, Recall, F1-score
+- Precision, Recall, F1-score evaluation
 - Confusion matrix analysis
 - Feature importance interpretation
 - Silhouette score evaluation
 
 ### Time Series Modeling
-
 - Stationarity testing
 - Differencing techniques
 - ARIMA/SARIMA forecasting
 - Forecast performance evaluation
 
-### Deep Learning
-
+### Deep Learning & NLP
 - Artificial Neural Networks (ANN)
 - Activation functions and architecture design
 - Recurrent Neural Networks (RNN)
@@ -100,29 +83,21 @@ This portfolio serves as a growing technical foundation and will continue expand
 
 ## 🧰 Technology Stack
 
-**Programming:** Python
-**Data Processing:** NumPy, Pandas, SciPy
-**Visualization:** Matplotlib, Seaborn
-**Machine Learning:** Scikit-learn, Statsmodels, XGBoost, LightGBM
-**Deep Learning:** TensorFlow, Keras
-**Tools:** Git, GitHub, Jupyter Notebook, VS Code
-
----
-
-### Databases
-
-- SQL (Joins, Aggregations, Subqueries, Window Functions)
-
-### Business Intelligence & Visualization
-
-- Tableau (Dashboards, Interactive Reports, Data Storytelling)
+* **Programming:** Python
+* **Data Processing:** NumPy, Pandas, SciPy
+* **Visualization:** Matplotlib, Seaborn
+* **Machine Learning:** Scikit-learn, Statsmodels, XGBoost, LightGBM
+* **Deep Learning:** TensorFlow, Keras
+* **Databases:** SQL (Joins, Aggregations, Subqueries, Window Functions)
+* **Business Intelligence:** Tableau (Dashboards, Interactive Reports)
+* **Tools:** Git, GitHub, Jupyter Notebook, VS Code
 
 ---
 
 ## 📁 Repository Structure
 
-```
-data-science-assignments-and-practice/
+```text
+Data-Science/
 │
 ├── Assignments/
 │   ├── 1_Basics_of_Python/
@@ -147,36 +122,37 @@ data-science-assignments-and-practice/
 │   └── 20_RNN/
 │
 ├── Practice/
-├── Projects/
-|   |── 1_Bankruptcy_Prediction_system/
-|   
 ├── Datasets/
 ├── Notes/
 ├── requirements.txt
 └── README.md
+
 ```
 
 ---
 
-## 📌 Portfolio Highlights
+## 📌 Key Takeaways
 
-- Structured progression from fundamentals to advanced ML concepts
-- Comparative modeling across multiple algorithms
-- Emphasis on interpretability and evaluation
-- Exposure to healthcare, business analytics, classification, clustering, forecasting, and recommendation systems
-- Clean and modular repository architecture
-- Designed to scale with future real-world projects
+* Structured progression from fundamental programming to advanced ML architecture.
+* Comparative modeling methodologies across multiple algorithms.
+* Heavy emphasis on algorithmic interpretability and mathematical evaluation.
+* Exposure to diverse domains including healthcare, business analytics, classification, clustering, and forecasting.
+* Clean and modular repository architecture.
+
+---
+
+## 📈 Continuous Learning
+
+This repository is continuously updated with:
+
+* Advanced algorithmic practice scripts.
+* Structured analytical experiments.
+* Reproducible workflows testing new library updates and optimization techniques.
 
 ---
 
-## 📈 Upcoming Expansion
+*Maintained by Aruri Gowtham Raj*
 
-This repository will soon include:
+```
 
-- End-to-end ML projects with problem statements
-- Structured ML pipelines
-- Performance benchmarking reports
-- Reproducible experimentation workflows
-- Deployment-oriented implementations
-
----
+```
